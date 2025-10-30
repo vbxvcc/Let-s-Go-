@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Copy of Copy of Catatan Pengeluaran",
+  "description": "Aplikasi untuk membuat catatan pengeluaran, termasuk kuantitas, satuan, pilihan mata uang, dan harga. Aplikasi ini dapat mengekspor data ke PDF/Excel dan membagikannya.",
+  "requestFramePermissions": []
+}
